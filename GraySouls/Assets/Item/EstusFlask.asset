@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de849d25e6c4cf1439d9d4732798ee5d, type: 3}
+  m_Name: EstusFlask
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: "\u539F\u7D20\u74F6"
+  maxItemAmout: 6
+  currentIteamAmount: 6
+  itemModle: {fileID: 535551194704096629, guid: 6024b5d78ee78ee42b0957296828c2d1, type: 3}
+  consumeAnimation: Drink
+  isInteracting: 0
+  estusFlask: 1
+  ashenFlask: 0
+  healthRecoverAmount: 25
+  recoveryFX: {fileID: 100006, guid: d28b4386871604a438ddf78440a6d10a, type: 3}
